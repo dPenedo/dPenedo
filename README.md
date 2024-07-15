@@ -1,7 +1,8 @@
 ## Hi there, I'm Daniel Penedo! 👋
-
+I'm a Basque Web developer living in Argentina. Building and sharing code!!🚀
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Penedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-penedo-lazaro/)
+[![Website](https://img.shields.io/badge/Website-dpenedo.com-0A0A0A?style=for-the-badge&logo=about&logoColor=white&labelColor=101010)](https://dpenedo.com)
 [![Twitter](https://img.shields.io/badge/Twitter-d_Penedo_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/d_Penedo_)
 
 ## Technologies I Work With:
