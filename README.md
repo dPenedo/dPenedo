@@ -2,7 +2,6 @@
 I'm a Basque Developer living in Argentina. Building and sharing code!!🚀
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dpenedo&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Penedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-penedo-lazaro/)
 [![Website](https://img.shields.io/badge/Website-dpenedo.com-0A0A99?style=for-the-badge&logo=fa-globe&logoColor=white&labelColor=10100A)](https://dpenedo.com)
